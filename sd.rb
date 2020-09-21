@@ -1,4 +1,4 @@
-class sd < Formula
+class Sd < Formula
   desc "Intuitive find & replace CLI (sed alternative)"
   homepage "https://github.com/chmln/sd"
   url "https://github.com/TGotwig/homebrew-linux-vidmerger/releases/download/v0.7.6/sd.tar.gz"
